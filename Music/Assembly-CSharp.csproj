@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Demo.cs" />
      <Compile Include="Assets\Scripts\MainMenuController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity Work Space/2019.4.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

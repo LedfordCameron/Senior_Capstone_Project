@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Blake_ws.unity
     guid: c966ad49319d36545a3db7799b96eecf
+  - enabled: 1
+    path: Assets/Scenes/Melodie_ws.unity
+    guid: e88408d6c4aa6394197afe2d5ecb473e
   m_configObjects: {}
